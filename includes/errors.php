@@ -1,0 +1,1 @@
+<!-- errors.php content placeholder -->

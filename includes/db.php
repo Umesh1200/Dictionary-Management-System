@@ -1,0 +1,1 @@
+<!-- db.php content placeholder -->
