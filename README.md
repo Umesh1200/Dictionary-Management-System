@@ -25,6 +25,8 @@ A PHP and MySQL based web application for searching dictionary words, browsing b
 
 ## Screenshots
 
+### Public Pages
+
 ### Home Page
 
 ![Home Page](screenshots/home.png)
@@ -40,6 +42,16 @@ A PHP and MySQL based web application for searching dictionary words, browsing b
 ### Category Page
 
 ![Category Page](screenshots/category.png)
+
+### Admin Pages
+
+| Admin Dashboard | Manage Words |
+| --- | --- |
+| ![Admin Dashboard](screenshots/admin-dashboard.png) | ![Manage Words](screenshots/admin-manage-words.png) |
+
+| Manage Users | Analytics |
+| --- | --- |
+| ![Manage Users](screenshots/admin-manage-users.png) | ![Analytics](screenshots/admin-analytics.png) |
 
 ## Project Structure
 
